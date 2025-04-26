@@ -1,0 +1,18 @@
+Umar Hasan
+Email: yourmail@example.com
+Phone: +91-XXXXXXXXXX
+LinkedIn: linkedin.com/in/yourprofile
+
+Objective:
+To contribute my AI skills to real-world research projects, leveraging experience in LangChain and agentic systems.
+
+Skills:
+- Python, LangChain, LangGraph
+- Web Crawling, AI Agent Design
+- OpenAI, Tavily API usage
+
+Projects:
+- Deep Research AI Agentic System (Tavily, LangGraph)
+
+Education:
+- BTech CSE - [Your University] - [Year]

@@ -1,0 +1,22 @@
+# Explanation of Deep Research AI
+
+## Objective
+To design a dual-agent AI system for deep online research and automated answer drafting.
+
+## System Design
+- **Research Agent**: Crawls the internet using Tavily API, gathers structured information.
+- **Answer Drafter Agent**: Uses OpenAI model to draft a coherent, structured answer based on the research.
+
+## Flow
+1. User submits a research query.
+2. ResearchAgent collects relevant web content.
+3. AnswerAgent generates a final detailed response.
+
+## Technologies Used
+- Tavily API
+- LangChain
+- LangGraph
+- OpenAI (GPT-3.5)
+
+--
+Designed for submission to Kairon Deep Research Assignment.
